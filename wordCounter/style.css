@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+textarea{
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    font-size: 30px;
+}
+.wordCount{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #555;
+}
+.charCount{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #777;
+}
+.uniqueCount{
+    text-align: center;
+    font-size: 30px;
+    color: #777;
+}
